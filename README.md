@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Hannan
 
-<!--
-**hannan-0/hannan-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate with interests in:
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- 📱 Mobile App Development
 
-Here are some ideas to get you started:
+💼 Some of my projects:
+- **Autowise** – A mobile app for smart vehicle maintenance and fuel efficiency.
+- **Exam Scheduler** – An intelligent system for exam slot optimization.
+- *(More projects coming soon...)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack:
+- Python, C++, HTML, SQL, GO
+- Cisco Packet Tracer, Proteus, UML
+- Familiar with OS, Networks, Security & Assembly-level concepts
+
+🚀 I’m building my portfolio and aiming to create tech that solves real-world problems
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hannan-nadeem-14a705355/)
